@@ -31,17 +31,13 @@ My interests include C++, AI/ML, and open-source development.
 
 ---
 
-## Open-Source Contributions
+## 🌍 Open-Source Contributions
 
-**[Python Holidays](https://github.com/vacanza/holidays)**
+| Project | Merged PRs | Open PRs |
+|:--|:--:|:--:|
+| [Python Holidays](https://github.com/vacanza/holidays) | [#3945](https://github.com/vacanza/holidays/pull/3945) · [#3976](https://github.com/vacanza/holidays/pull/3976) · [#4082](https://github.com/vacanza/holidays/pull/4082) | [#3981](https://github.com/vacanza/holidays/pull/3981) |
 
-* Contributed to improving automated holiday tests by refactoring test cases and maintaining consistent test coverage.
-
-  [View Pull Request #3945 →](https://github.com/vacanza/holidays/pull/3945)
-
-* Added holiday localization support for **Eritrea** in **Tigrinya, Arabic, and English**.
-
-  [View Pull Request #3976 →](https://github.com/vacanza/holidays/pull/3976)
+**3 Merged** · **1 Open**
 
 ---
 
