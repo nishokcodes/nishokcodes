@@ -35,9 +35,9 @@ My interests include C++, AI/ML, and open-source development.
 
 | Project | Merged PRs | Open PRs |
 |:--|:--:|:--:|
-| [Python Holidays](https://github.com/vacanza/holidays) | [#3945](https://github.com/vacanza/holidays/pull/3945) · [#3976](https://github.com/vacanza/holidays/pull/3976) · [#4082](https://github.com/vacanza/holidays/pull/4082) | [#3981](https://github.com/vacanza/holidays/pull/3981) |
+| [Python Holidays](https://github.com/vacanza/holidays) | [#3945](https://github.com/vacanza/holidays/pull/3945) · [#3976](https://github.com/vacanza/holidays/pull/3976) · [#4082](https://github.com/vacanza/holidays/pull/4082) | [#3981](https://github.com/vacanza/holidays/pull/3981) · [#4099](https://github.com/vacanza/holidays/pull/4099) · [#4100](https://github.com/vacanza/holidays/pull/4100) |
 
-**3 Merged** · **1 Open**
+**3 Merged** · **3 Open**
 
 ---
 
